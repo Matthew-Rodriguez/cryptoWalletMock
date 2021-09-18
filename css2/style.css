@@ -1,6 +1,4 @@
 
-
-
 @media screen and (max-width: 480px) {
 .modal  {
   transform: scale(.7);
@@ -28,8 +26,7 @@ display: none;
   .slider .txt-botm .swiper-nav-ctrl.swiper-button-prev {
     height: 25vh;
   }
-	
-	
+
   .showcase-grid .swiper-slide .bg-img{
 height: 66vh !important;
   }
@@ -37,6 +34,7 @@ height: 66vh !important;
   .bg-img {
     background-size: contain !important;
 
+  }
 
 }
 
